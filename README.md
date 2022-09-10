@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anton</h1>
-- 🔭 I’m currently working on [Future C2/API](https://discord.gg/4zXXT99yGh)
+- 🔭 I’m currently working on Future C2/API
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
