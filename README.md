@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anton</h1>
-- 🔭 I’m currently working on Toolify
+- 🔭 I’m currently working on RainbowMetals
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
